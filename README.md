@@ -49,7 +49,9 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=blue-green&combine_all_yearly_contributions=true" 
+       alt="Top Contributed Repo" 
+       style="width: 80%; max-width: 800px;">
 </div>
 
 ### 👁️‍🗨️ Visitor Count
