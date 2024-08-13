@@ -33,13 +33,13 @@
 
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies
+  <img src="https://github.com/user-attachments/assets/61b54a6d-bd26-45af-97b9-e02d7b934777" width="30" />&nbsp;Git Trophies
 </h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;GitHub Stats
+  <img src="https://github.com/user-attachments/assets/7e8231a8-54d1-40f8-83fb-56549d5fc1df" width="30" />&nbsp;GitHub Stats
 </h2>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 <div align="center">
-	<img height="180em"  src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img height="180em"  src = "https://github.com/user-attachments/assets/bf1e61d2-10fa-4328-a1af-d2531f73bb9a" alt = "Snake Game"/>
 </div>
 
 ## 💰 You can help me by Donating:
