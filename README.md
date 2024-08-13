@@ -16,3 +16,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anilshebin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
