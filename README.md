@@ -20,7 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
   <img width="365em" height="180em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <img width="400em" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
@@ -32,10 +32,13 @@
 ### 👁️‍🗨️ Visitor Count
 [![](https://visitcount.itsvg.in/api?id=anilshebin&icon=0&color=9)](https://visitcount.itsvg.in)
 
+### 👨‍💻 Activity
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anilshebin&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 ## 🐍 A Snake Eating my Contributions Graph
 <div align="center">
 	<img height="180em"  src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
-## 💰 You can help me by Donating
+## 💰 You can help me by Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/anilshebinq) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/9487274659?country.x=IN&locale.x=en_GB) 
