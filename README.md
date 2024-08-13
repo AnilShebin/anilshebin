@@ -20,7 +20,7 @@
 ## 🏆 GitHub Trophies
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
+      <img width=80% src="https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
     </a>
 </div>
 
