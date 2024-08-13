@@ -25,9 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
 </p>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
