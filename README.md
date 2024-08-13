@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Exciting web development projects**
 
-- 🤝 I’m looking for help with **Advanced Shopify integrations**
-
 - 📫 How to reach me **anilshebin@gmail.com**
 
 - ⚡ Fun fact **I love diving into the depths of custom Android ROMs and tweaking every detail for the perfect user experience!**
@@ -34,9 +32,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=dark&combine_all_yearly_contributions=true)
