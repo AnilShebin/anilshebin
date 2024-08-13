@@ -16,8 +16,14 @@
 - ⚡ Fun fact **I love diving into the depths of custom Android ROMs and tweaking every detail for the perfect user experience!**
 
 ## 🌐 Socials:
-| [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anilshebin) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil_shebin) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilshebin) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anilshebin) |
-|:---:|:---:|:---:|:---:|
+<table style="width: 100%;">
+  <tr>
+    <td><a href="https://facebook.com/anilshebin"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a></td>
+    <td><a href="https://instagram.com/anil_shebin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a></td>
+    <td><a href="https://linkedin.com/in/anilshebin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
+    <td><a href="https://x.com/anilshebin"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a></td>
+  </tr>
+</table>
 
 # 💻 Tech Stack
 
