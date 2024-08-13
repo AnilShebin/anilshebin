@@ -16,18 +16,10 @@
 - ⚡ Fun fact **I love diving into the depths of custom Android ROMs and tweaking every detail for the perfect user experience!**
 
 ## 🌐 Socials:
-<div style="width: 100%; display: flex; justify-content: center;">
-  <table style="width: 100%; max-width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="text-align: center;"><a href="https://facebook.com/anilshebin"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a></td>
-      <td style="text-align: center;"><a href="https://instagram.com/anil_shebin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a></td>
-      <td style="text-align: center;"><a href="https://linkedin.com/in/anilshebin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-      <td style="text-align: center;"><a href="https://x.com/anilshebin"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a></td>
-    </tr>
-  </table>
-</div>
+| [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anilshebin) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil_shebin) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilshebin) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anilshebin) |
+|---|---|---|---|
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) |
 |---|---|---|---|---|---|---|---|
