@@ -51,7 +51,7 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=blue-green&combine_all_yearly_contributions=true" 
        alt="Top Contributed Repo" 
-       style="width: 90%; height: 20%;">
+       style="width: 90%; max-width: 900px; height: 300px; object-fit: contain;">
 </div>
 
 ### 👁️‍🗨️ Visitor Count
