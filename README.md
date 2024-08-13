@@ -22,8 +22,8 @@
 
 # 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
 </p>
 
 ### 🔝 Top Contributed Repo
