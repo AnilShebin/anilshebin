@@ -12,10 +12,13 @@
 - ⚡ Fun fact **I love diving into the depths of custom Android ROMs and tweaking every detail for the perfect user experience!**
 
 # 📊 GitHub Stats:
-<p>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
-</p>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anilshebin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil_shebin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilshebin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anilshebin) 
