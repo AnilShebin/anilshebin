@@ -29,23 +29,19 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="Anil's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=onedark&hide_border=false" alt="Anil's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilshebin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Anil's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="Anil's GitHub Stats" width="300" height="150" style="margin-right: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=onedark&hide_border=false" alt="Anil's Streak Stats" width="300" height="150" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilshebin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Anil's Top Languages" width="300" height="150"/>
 </p>
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Anil's GitHub Trophies" />
 </p>
 
 ### 🔝 Top Contributed Repo
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Anil's Top Contributed Repo" />
 </p>
