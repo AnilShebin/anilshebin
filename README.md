@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5797168-d4e7-4524-a50a-f8ce897f0d0b" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anil Shebin</h1>
 <h3 align="center">🌟 Passionate Full Stack Developer from India | Expertise in Java, React, and Android ROMs</h3>
 
