@@ -58,7 +58,7 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 <div align="center">
-	<img height="180em"  src = "https://github.com/user-attachments/assets/bf1e61d2-10fa-4328-a1af-d2531f73bb9a" alt = "Snake Game"/>
+	<img height="180em"  src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
 ## 💰 You can help me by Donating:
