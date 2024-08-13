@@ -48,7 +48,9 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
 
 ### 👁️‍🗨️ Visitor Count
 [![](https://visitcount.itsvg.in/api?id=anilshebin&icon=0&color=9)](https://visitcount.itsvg.in)
