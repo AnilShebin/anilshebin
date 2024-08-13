@@ -21,9 +21,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-<p>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
+<p align="center">
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=anilshebin&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="400em" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=react&hide_border=false" />
 </p>
 
 ### 🔝 Top Contributed Repo
