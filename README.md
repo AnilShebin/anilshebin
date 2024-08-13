@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Shebin</h1>
-<h3 align="center">🌟 A passionate Full Stack Developer from India with expertise in Java, React, Android ROMs, and a love for Open Source</h3>
+<h3 align="center">🌟 Passionate Full Stack Developer from India | Expertise in Java, React, and Android ROMs</h3>
 
 - 🔭 I’m currently working on **React websites and Shopify projects**
 
