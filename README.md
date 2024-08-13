@@ -41,10 +41,19 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Anil's GitHub Trophies" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anilshebin&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Anil's Top Contributed Repo" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anilshebin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=anilshebin&icon=0&color=0" alt="Visit Count" />
+  </a>
+</p>
