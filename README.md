@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Anil%20Shebin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Anil%20Shebin&fontSize=90&fontColor=6A5ACD&animation=twinkling&desc=Full%20Stack%20Developer&descSize=30&descAlignY=75&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -205,75 +205,103 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/anilshebin/project1">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anilshebin&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/anilshebin/project2">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anilshebin&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <h3>E-Commerce Platform</h3>
+        <img src="https://img.icons8.com/color/48/000000/shopping-cart--v1.png" width="40" />
+        <p>A full-featured online shopping platform built with React, Node.js, and MongoDB</p>
+        <p><b>Tech Stack:</b> React, Redux, Node.js, Express, MongoDB, AWS</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge" alt="View Project" /></a>
+      </td>
+      <td align="center">
+        <h3>Custom ROM Manager</h3>
+        <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" />
+        <p>An Android application to manage and customize ROM installations</p>
+        <p><b>Tech Stack:</b> Kotlin, Java, Android SDK, Firebase</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge" alt="View Project" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Portfolio Website</h3>
+        <img src="https://img.icons8.com/color/48/000000/web.png" width="40" />
+        <p>A responsive portfolio website with dark mode and animations</p>
+        <p><b>Tech Stack:</b> Next.js, Tailwind CSS, Framer Motion</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge" alt="View Project" /></a>
+      </td>
+      <td align="center">
+        <h3>Task Management API</h3>
+        <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="40" />
+        <p>RESTful API for task management with authentication and authorization</p>
+        <p><b>Tech Stack:</b> Spring Boot, Java, PostgreSQL, Docker</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge" alt="View Project" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- Workflow Section with Modern Design -->
+<!-- Trophies Section with Modern Design -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
-  My Development Workflow
-</h2>
-
-```mermaid
-graph TD;
-    A["Requirement Analysis"] --> B["Design & Architecture"];
-    B --> C["Development"];
-    C --> D["Testing"];
-    D --> E["Deployment"];
-    E --> F["Maintenance"];
-    F --> A;
-    
-    style A fill:#6A5ACD,stroke:#333,stroke-width:2px,color:white
-    style B fill:#6A5ACD,stroke:#333,stroke-width:2px,color:white
-    style C fill:#6A5ACD,stroke:#333,stroke-width:2px,color:white
-    style D fill:#6A5ACD,stroke:#333,stroke-width:2px,color:white
-    style E fill:#6A5ACD,stroke:#333,stroke-width:2px,color:white
-    style F fill:#6A5ACD,stroke:#333,stroke-width:2px,color:white
-```
-
-`<br>``<!-- Trophies Section with Modern Design -->``<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>``<h2 align="center">
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> 
   GitHub Trophies
-</h2>``<div align="center">
+</h2>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anilshebin&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
-</div>``<br>``<!-- Contribution Snake Section -->``<div align="center">
+</div>
+
+<br>
+
+<!-- Quote Section with Modern Design -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>``<h2 align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="30"> 
-  Contribution Snake
-</h2>``<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilshebin/anilshebin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilshebin/anilshebin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anilshebin/anilshebin/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>``<br>``<!-- Support Section with Modern Design -->``<div align="center">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
+  My Philosophy
+</h2>
+
+<div align="center">
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; max-width: 800px; margin: 0 auto;">
+    <p style="font-size: 24px; color: #5BCDEC; font-style: italic; line-height: 1.6;">
+      "Technology is best when shared. Let's learn, build, and grow together."
+    </p>
+    <p style="font-size: 18px; color: #6A5ACD;">- Anil Shebin S J</p>
+  </div>
+</div>
+
+<br>
+
+<!-- Support Section with Modern Design -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>``<h2 align="center">
+</div>
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
   Support My Work
-</h2>``<div align="center">
+</h2>
+
+<div align="center">
   <a href="https://buymeacoffee.com/anilshebinq">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <a href="https://paypal.me/9487274659">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
-</div>``<br>``<!-- Quote Section -->``<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>``<br>``<!-- Footer Section with Modern Design -->``<div align="center">
+</div>
+
+<br>
+
+<!-- Footer Section with Modern Design -->
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" width="100%" />
 </div>
