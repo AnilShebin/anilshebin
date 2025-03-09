@@ -55,7 +55,7 @@
 </div>
 
 ### 👁️‍🗨️ Visitor Count
-[![](https://visitcount.itsvg.in/api?id=anilshebin&icon=0&color=9)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnilShebin&count_bg=%2300FF6D&title_bg=%23555555&icon=buffer.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 👨‍💻 Activity
 ![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anilshebin&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
