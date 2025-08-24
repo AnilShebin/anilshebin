@@ -77,7 +77,7 @@
   </h2>
   
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=anilshebin&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="Trophy" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anilshebin&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" alt="Trophy" />
   </p>
 </div>
 
