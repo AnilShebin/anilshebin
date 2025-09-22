@@ -114,10 +114,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <!-- Updated streak stats to teal theme -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilshebin&theme=dark&hide_border=true&background=0F172A&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=94A3B8" width="70%" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=AnilShebin&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</a>
 </p>
 
 <p align="center">
